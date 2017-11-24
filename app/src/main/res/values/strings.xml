@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExampleFaceDetection</string>
+    <string name="proses_face_detection">Memulai proses Face Detection</string>
+</resources>
